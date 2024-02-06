@@ -1,0 +1,134 @@
+TD,TR {
+	FONT-SIZE: 13; 
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	color: #000000;
+}
+
+TEXT{
+	FONT-SIZE: 13;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+a:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 13;
+	text-decoration: underline;
+	COLOR: #F72800;
+}
+
+A:hover{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 13;
+	text-decoration: underline;
+	COLOR: #F7F721;  
+}
+
+a:active { 
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 13;
+	text-decoration: underline;
+	COLOR: #F7F721;  }
+
+a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 13;
+	text-decoration: underline;
+	COLOR: #F72800;
+}
+
+A:hover,a:active.logo{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 13;
+	text-decoration: none;
+	COLOR: #FF9900;  
+	padding:0;
+}
+
+/*¬»ƒ≤À≈ÕÕﬂ œŒÿ” Œ¬Œ√Œ «¿œ»“”*/
+.hilite {
+	background: #FFFF00;
+}
+/*¬»ƒ≤À≈ÕÕﬂ œŒÿ” Œ¬Œ√Œ «¿œ»“”*/
+
+a:link.menu {
+	color: #CC0000;
+	FONT-SIZE: 14;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+
+a:visited.menu {
+	color: #CC0000;
+	FONT-SIZE: 14;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+
+A:hover.menu{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 14;
+	text-decoration: underline;
+	COLOR: #000000;  
+}
+
+a:active.menu { font-family: Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 14;
+	text-decoration: underline;
+	COLOR: #000000;  }
+
+}
+ H1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;  
+	width: small;
+}
+H2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 100%; 
+	color: black
+}
+H3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 13; 
+	color:red;
+}
+H4 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 100%; 
+	color: black
+}
+H6 {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 10; 
+	color: black
+}
+
+IMG {
+	border: OPX;
+	padding: 0PX;
+}
+
+
+/*—“»À‹ √ */
+
+TABLE.gb{ border:1px #F72800 dotted;}
+/*
+     FILE ARCHIVED ON 23:30:10 Feb 29, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:41:45 Feb 06, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.357
+  exclusion.robots.policy: 0.325
+  cdx.remote: 0.18
+  esindex: 0.016
+  LoadShardBlock: 138.391 (6)
+  PetaboxLoader3.datanode: 133.654 (7)
+  load_resource: 73.543
+  PetaboxLoader3.resolve: 65.579
+*/
